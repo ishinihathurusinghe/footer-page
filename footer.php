@@ -36,7 +36,7 @@
     </div>
 </div>
 
-       <p style="color:white;text-align: center;">
+          <p style="color:white;text-align: center;">
 		<br>
 		
 		Mobile:&nbsp &nbsp 076 750 7263
